@@ -3,4 +3,4 @@
 ## 论文地址：https://arxiv.org/abs/2309.01249
 ## 项目主页：
 ## 展示视频
-<source src="hbh.mp4" type="video/mp4">
+<video src='hbh.mp4' width=180/>
