@@ -3,5 +3,6 @@
 ## 论文地址：https://arxiv.org/abs/2309.01249
 ## 项目主页：
 ## 展示视频
-[查看视频](https://jiangfeibo.github.io/MultimodalSC/hbh.mp4)
+[[查看视频](https://jiangfeibo.github.io/MultimodalSC/hbh.mp4)](https://github.com/jiangfeibo/MultimodalSC/assets/67264710/b1606176-dbd4-4dc0-b42f-bfee6e88f7ac
+)https://github.com/jiangfeibo/MultimodalSC/assets/67264710/b1606176-dbd4-4dc0-b42f-bfee6e88f7ac
 
