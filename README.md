@@ -33,9 +33,8 @@ https://github.com/jiangfeibo/MultimodalSC/assets/67264710/7564d320-b041-4bb3-96
 ## Displayed video 3
 https://github.com/jiangfeibo/MultimodalSC/assets/67264710/f9f10be8-8a36-4983-91a4-3c927191845d
 ### Explanation of video 3：
-
-
-    The video demonstrates the end-to-end facial video transmission framework we proposed. During transmission, text is used in place of video. FunASR and Bert-VITS2 are used for ASR and TTS, respectively, and finally, Sadtalker is used to reconstruct the video.
+  - Illustration：The video demonstrates the end-to-end facial video transmission framework we proposed. During transmission, text is used in place of video. FunASR and Bert-VITS2 are used for ASR and TTS, respectively, and finally, Sadtalker is used to reconstruct the video.
+    
 
 
 
