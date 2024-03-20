@@ -9,4 +9,6 @@ https://github.com/jiangfeibo/MultimodalSC/assets/67264710/8d018280-b0a8-43e7-98
   - 视频内容：
   
     Q：what did you see？
+
+    
     A：in the image,a person is holding a book,possibly a textbook,with a flower design on the cover. the book is open and appears to be in a foreign language.the person is also holding a hand,possibly to hold the book or to show the book to someone.
