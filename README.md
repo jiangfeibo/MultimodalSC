@@ -16,7 +16,7 @@ https://github.com/jiangfeibo/MultimodalSC/assets/67264710/8d018280-b0a8-43e7-98
 https://github.com/jiangfeibo/MultimodalSC/assets/67264710/7564d320-b041-4bb3-969d-817e418659e4
 ### Explanation of video 2：
   - Model：qwen1.6b
-  - Pre filling rate：253.35token/s\
+  - Pre filling rate：253.35token/s
   - Decoding rate：9.04token/s
   - Video content：
 
