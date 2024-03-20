@@ -30,5 +30,9 @@ https://github.com/jiangfeibo/MultimodalSC/assets/67264710/7564d320-b041-4bb3-96
   
     
     A：我可以回答问题，提供定义，解释和建议，将文本从一种语言翻译成另一种语言，总结文本，生成文本，写故事，分析感情，提供建议，开发算法，编写代码以及任何其他基于语言的任务
+## Displayed video 3
+https://github.com/jiangfeibo/MultimodalSC/assets/67264710/45ac8c5d-5cf9-4054-b8e0-574aa08bb449
+### Explanation of video 3：The video demonstrates the end-to-end facial video transmission framework we proposed. During transmission, text is used in place of video. FunASR and Bert-VITS2 are used for ASR and TTS, respectively, and finally, Sadtalker is used to reconstruct the video.
+
 
 
