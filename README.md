@@ -2,7 +2,7 @@
 ## Authors：Feibo Jiang, Yubo Peng, Li Dong, Kezhi Wang, Kun Yang, Cunhua Pan, Xiaohu You
 ## Paper：https://arxiv.org/abs/2309.01249
 ## Home page：The home page is still being perfected.
-## 1.Demonstration of Semantic Communication System
+## 1.The proposed SemCom System
 https://github.com/jiangfeibo/MultimodalSC/assets/67264710/f9f10be8-8a36-4983-91a4-3c927191845d
 ### Explanation of the video：
   - Illustration：The video demonstrates our proposed multimodal semantic communication system. During the transmission process, text is used instead of the original video for transmission. GPT is employed to disambiguate and correct the transmitted text. Finally, the video is reconstructed based on user identity and voice characteristics according to the transmitted text.
