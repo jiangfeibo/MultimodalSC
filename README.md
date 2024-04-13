@@ -16,7 +16,7 @@ https://github.com/jiangfeibo/MultimodalSC/assets/67264710/8d018280-b0a8-43e7-98
 
     
     A：In the image, a person is holding a book, possibly a textbook, with a flower design on the cover. The book is open and appears to be in a foreign language. The person is also holding a hand, possibly to hold the book or to show the book to someone.
-## 3.Demonstration of Edge-side Large Language Model on the NVIDIA Platform
+## 3.Large Language Model at the edge (Jetson Iron)
 https://github.com/jiangfeibo/MultimodalSC/assets/67264710/7564d320-b041-4bb3-969d-817e418659e4
 ### Explanation of the video：
   - Model：qwen1.6b
