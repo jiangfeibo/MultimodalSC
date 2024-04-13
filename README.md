@@ -12,10 +12,10 @@ https://github.com/jiangfeibo/MultimodalSC/assets/67264710/8d018280-b0a8-43e7-98
   - Model：MobileVLM
   - Video content：
   
-    Q：what did you see？
+    Q：What did you see?
 
     
-    A：in the image,a person is holding a book,possibly a textbook,with a flower design on the cover. the book is open and appears to be in a foreign language.the person is also holding a hand,possibly to hold the book or to show the book to someone.
+    A：In the image, a person is holding a book, possibly a textbook, with a flower design on the cover. The book is open and appears to be in a foreign language. The person is also holding a hand, possibly to hold the book or to show the book to someone.
 ## Demonstration of Edge-side Large Language Model on the NVIDIA Platform
 https://github.com/jiangfeibo/MultimodalSC/assets/67264710/7564d320-b041-4bb3-969d-817e418659e4
 ### Explanation of the video：
@@ -24,7 +24,7 @@ https://github.com/jiangfeibo/MultimodalSC/assets/67264710/7564d320-b041-4bb3-96
   - Decoding rate：9.04token/s
   - Video content：
 
-    Q：喂！你好
+    Q：喂！你好.
   
   
     A：你好！有什么我能帮助你的吗？
@@ -33,7 +33,7 @@ https://github.com/jiangfeibo/MultimodalSC/assets/67264710/7564d320-b041-4bb3-96
     Q：你能做些什么呢？
   
     
-    A：我可以回答问题，提供定义，解释和建议，将文本从一种语言翻译成另一种语言，总结文本，生成文本，写故事，分析感情，提供建议，开发算法，编写代码以及任何其他基于语言的任务
+    A：我可以回答问题，提供定义，解释和建议，将文本从一种语言翻译成另一种语言，总结文本，生成文本，写故事，分析感情，提供建议，开发算法，编写代码以及任何其他基于语言的任务.
 
     
 
