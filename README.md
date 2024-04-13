@@ -2,13 +2,13 @@
 ## Authors：Feibo Jiang, Yubo Peng, Li Dong, Kezhi Wang, Kun Yang, Cunhua Pan, Xiaohu You
 ## Paper：https://arxiv.org/abs/2309.01249
 ## Home page：[https://github.com/jiangfeibo/MultimodalSC](https://jiangfeibo.github.io/MultimodalSC/)
-## Displayed video 3
+## Demonstration of Semantic Communication System
 https://github.com/jiangfeibo/MultimodalSC/assets/67264710/f9f10be8-8a36-4983-91a4-3c927191845d
-### Explanation of video 3：
+### Explanation of the video：
   - Illustration：The video demonstrates the end-to-end facial video transmission framework we proposed. During transmission, text is used in place of video. FunASR and Bert-VITS2 are used for ASR and TTS, respectively, and finally, Sadtalker is used to reconstruct the video.
-## Displayed video 1
+## Demonstration of Edge-side Multimodal Large Model Based on the NVIDIA Platform
 https://github.com/jiangfeibo/MultimodalSC/assets/67264710/8d018280-b0a8-43e7-9825-101dba51bc3e
-### Explanation of video 1：
+### Explanation of the video：
   - Model：MobileVLM
   - Video content：
   
@@ -16,9 +16,9 @@ https://github.com/jiangfeibo/MultimodalSC/assets/67264710/8d018280-b0a8-43e7-98
 
     
     A：in the image,a person is holding a book,possibly a textbook,with a flower design on the cover. the book is open and appears to be in a foreign language.the person is also holding a hand,possibly to hold the book or to show the book to someone.
-## Displayed video 2
+## Demonstration of Edge-side Large Language Model on the NVIDIA Platform
 https://github.com/jiangfeibo/MultimodalSC/assets/67264710/7564d320-b041-4bb3-969d-817e418659e4
-### Explanation of video 2：
+### Explanation of the video：
   - Model：qwen1.6b
   - Pre filling rate：253.35token/s
   - Decoding rate：9.04token/s
