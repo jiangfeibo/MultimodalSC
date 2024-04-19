@@ -12,7 +12,7 @@ https://github.com/jiangfeibo/MultimodalSC/assets/67264710/8d018280-b0a8-43e7-98
   - Model：MobileVLM
   - Video content：
   
-    Q：What did you see?
+    Q：What did you see? 
 
     
     A：In the image, a person is holding a book, possibly a textbook, with a flower design on the cover. The book is open and appears to be in a foreign language. The person is also holding a hand, possibly to hold the book or to show the book to someone.
