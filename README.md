@@ -38,6 +38,7 @@ https://github.com/jiangfeibo/MultimodalSC/assets/67264710/7564d320-b041-4bb3-96
     A：我可以回答问题，提供定义，解释和建议，将文本从一种语言翻译成另一种语言，总结文本，生成文本，写故事，分析感情，提供建议，开发算法，编写代码以及任何其他基于语言的任务.
 
 ## Citation   
+```python
 @misc{jiang2023large,
       title={Large AI Model Empowered Multimodal Semantic Communications}, 
       author={Feibo Jiang and Yubo Peng and Li Dong and Kezhi Wang and Kun Yang and Cunhua Pan and Xiaohu You},
@@ -46,5 +47,4 @@ https://github.com/jiangfeibo/MultimodalSC/assets/67264710/7564d320-b041-4bb3-96
       archivePrefix={arXiv},
       primaryClass={cs.AI}
 }
-
-
+```
