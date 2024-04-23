@@ -51,6 +51,6 @@ https://github.com/jiangfeibo/MultimodalSC/assets/67264710/7564d320-b041-4bb3-96
 
 
 <video width="320" height="240" controls>
-  <source src="[static/video/hbh.mp4](https://github.com/jiangfeibo/MultimodalSC/blob/main/static/videos/hbh.mp4)" type="video/mp4">
+  <source src="[[static/video/hbh.mp4](https://github.com/jiangfeibo/MultimodalSC/blob/main/static/videos/hbh.mp4)](https://github.com/jiangfeibo/MultimodalSC/blob/main/314545449-f9f10be8-8a36-4983-91a4-3c927191845d.mp4)" type="video/mp4">
   Your browser does not support the video tag.
 </video>
