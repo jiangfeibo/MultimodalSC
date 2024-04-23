@@ -48,3 +48,9 @@ https://github.com/jiangfeibo/MultimodalSC/assets/67264710/7564d320-b041-4bb3-96
       primaryClass={cs.AI}
 }
 ```
+
+
+<video width="320" height="240" controls>
+  <source src="static/video/hbh.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
