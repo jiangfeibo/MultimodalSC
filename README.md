@@ -31,8 +31,8 @@ https://github.com/jiangfeibo/MultimodalSC/assets/67264710/7564d320-b041-4bb3-96
 ### Video Description：
   - Model：Qwen 1.6b
   - Hardware platform：NVIDIA Jetson Iron
-  - Pre filling rate：253.35token/s
-  - Decoding rate：9.04token/s
+  - Pre filling rate：253.35 token/s
+  - Decoding rate：9.04 token/s
   - Video content：
 
     Q：喂！你好.
