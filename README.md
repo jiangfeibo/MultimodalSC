@@ -15,7 +15,7 @@ https://github.com/jiangfeibo/MultimodalSC/assets/67264710/f9f10be8-8a36-4983-91
 ### Video Description：
   - The video demonstrates our proposed multimodal semantic communication system. During the transmission process, text is used instead of the original video for transmission. GPT is employed to disambiguate and correct the transmitted text. Finally, the video is reconstructed based on user identity and voice characteristics according to the transmitted text.
     
-## 2. Multimodal large models at the edge (Jetson Iron)
+## 2. Multimodal large models at the edge
 https://github.com/jiangfeibo/MultimodalSC/assets/67264710/8d018280-b0a8-43e7-9825-101dba51bc3e
 ### Video Description：
   - Model：MobileVLM V2
@@ -26,7 +26,7 @@ https://github.com/jiangfeibo/MultimodalSC/assets/67264710/8d018280-b0a8-43e7-98
 
     
     A：In the image, a person is holding a book, possibly a textbook, with a flower design on the cover. The book is open and appears to be in a foreign language. The person is also holding a hand, possibly to hold the book or to show the book to someone.
-## 3. Large Language Model at the edge (Jetson Iron)
+## 3. Large Language Model at the edge
 https://github.com/jiangfeibo/MultimodalSC/assets/67264710/7564d320-b041-4bb3-969d-817e418659e4
 ### Video Description：
   - Model：Qwen 1.6b
