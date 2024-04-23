@@ -1,3 +1,7 @@
+<video width="320" height="240" controls>
+  <source src="https://github.com/jiangfeibo/MultimodalSC/assets/67264710/f9f10be8-8a36-4983-91a4-3c927191845d" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 # Large AI Model Empowered Multimodal Semantic Communications
 ## Authors：Feibo Jiang, Yubo Peng, Li Dong, Kezhi Wang, Kun Yang, Cunhua Pan, Xiaohu You
 ## Paper：https://arxiv.org/abs/2309.01249
