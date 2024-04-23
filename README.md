@@ -13,11 +13,13 @@ Multimodal signals, including text, audio, image, and video, can be integrated i
 ## 1. The proposed SemCom System
 https://github.com/jiangfeibo/MultimodalSC/assets/67264710/f9f10be8-8a36-4983-91a4-3c927191845d
 ### Video Description：
-  - Illustration：The video demonstrates our proposed multimodal semantic communication system. During the transmission process, text is used instead of the original video for transmission. GPT is employed to disambiguate and correct the transmitted text. Finally, the video is reconstructed based on user identity and voice characteristics according to the transmitted text.
+  - The video demonstrates our proposed multimodal semantic communication system. During the transmission process, text is used instead of the original video for transmission. GPT is employed to disambiguate and correct the transmitted text. Finally, the video is reconstructed based on user identity and voice characteristics according to the transmitted text.
+  - 
 ## 2. Multimodal large models at the edge (Jetson Iron)
 https://github.com/jiangfeibo/MultimodalSC/assets/67264710/8d018280-b0a8-43e7-9825-101dba51bc3e
 ### Video Description：
-  - Model：MobileVLM
+  - Model：MobileVLM V2
+  - Hardware platform：NVIDIA Jetson Iron
   - Video content：
   
     Q：What did you see? 
@@ -27,7 +29,8 @@ https://github.com/jiangfeibo/MultimodalSC/assets/67264710/8d018280-b0a8-43e7-98
 ## 3. Large Language Model at the edge (Jetson Iron)
 https://github.com/jiangfeibo/MultimodalSC/assets/67264710/7564d320-b041-4bb3-969d-817e418659e4
 ### Video Description：
-  - Model：qwen1.6b
+  - Model：Qwen 1.6b
+  - Hardware platform：NVIDIA Jetson Iron
   - Pre filling rate：253.35token/s
   - Decoding rate：9.04token/s
   - Video content：
