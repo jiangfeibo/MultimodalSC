@@ -1,7 +1,7 @@
 # Large AI Model Empowered Multimodal Semantic Communications
 ## Authors：Feibo Jiang, Yubo Peng, Li Dong, Kezhi Wang, Kun Yang, Cunhua Pan, Xiaohu You
 ## Paper：https://arxiv.org/abs/2309.01249
-## Code：https://github.com/qiyuqianxai/Large-AI-Model-Empowered-Multimodal-Semantic-communication.git
+## Code：[https://github.com/jiangfeibo/LAMMSC].git
 ## Abstract
 
 
